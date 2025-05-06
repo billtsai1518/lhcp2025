@@ -1,0 +1,9 @@
+.footer {
+    /* CERN logo guidelines require 25% of the logo width/height as padding */
+    padding-left: 15px !important;
+    padding-bottom: 15px !important;
+}
+
+.footer .footer-logo {
+    height: auto;
+}
